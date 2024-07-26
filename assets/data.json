@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "age": 30,
+            "address": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "Anystate"
+            },
+            "phone": "555-1234"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "age": 25,
+            "address": {
+                "street": "456 Oak St",
+                "city": "Othertown",
+                "state": "Otherstate"
+            },
+            "phone": "555-5678"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "age": 28,
+            "address": {
+                "street": "789 Pine St",
+                "city": "Sometown",
+                "state": "Somestate"
+            },
+            "phone": "555-8765"
+        }
+    ],
+    "sucess": true,
+    "statusCode": "400"
+}
